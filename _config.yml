@@ -1,0 +1,14 @@
+layout_spectrum: 0.5181635
+typography_spectrum: 0.9107119
+color:
+  saturation: 0.8111185
+  lightness: 0.9766958
+  brandStrength: 0.7050472
+  rhythmicContrast: 0.9504266
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Reef
